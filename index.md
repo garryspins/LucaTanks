@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my portofolio!
 
-You can use the [editor on GitHub](https://github.com/DaBigEgg/DaBigEgg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am currently stepping back from development work, and taking time to support others!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
